@@ -1,0 +1,21 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Upsilon Kentaurus",
+   "children": [
+     {"name": "44.133.182.220", "value": 3938},
+     {"name": "13.151.254.220", "value": 3812},
+     {"name": "100.90.253.47", "value": 6714}
+   ]
+  },
+  {
+   "name": "Capella Cloud",
+   "children": [
+     {"name": "44.133.182.220", "value": 3938},
+     {"name": "13.151.254.220", "value": 3812},
+     {"name": "100.90.253.47", "value": 6714}
+   ]
+  }
+ ]
+}
